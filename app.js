@@ -29,5 +29,5 @@ function soma(a, b) {
   
   var port = 3001;
   app.listen(port, function() {
-    console.log(`Servidor rodando na porta ${port}`);
+    console.log(`Servidor rodando lá na porta ${port}`);
   });
